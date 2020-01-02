@@ -32,3 +32,8 @@ $ python
 [<User 'johndoe'>]
 >>> Post.query.all()
 [<Post 'Hello World'>
+
+
+
+
+https://medium.com/@marvinkome/creating-a-graphql-server-with-flask-ae767c7e2525
