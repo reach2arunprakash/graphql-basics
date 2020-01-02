@@ -37,3 +37,6 @@ $ python
 
 
 https://medium.com/@marvinkome/creating-a-graphql-server-with-flask-ae767c7e2525
+
+
+https://api.graph.cool/simple/v1/ck4wmom9u0dbm01248w9ro6xd/?query=%7B%0A%20%20allPersons%20%7B%0A%20%20%20%20name%0A%20%20%20%20age%0A%20%20%7D%0A%7D
